@@ -1,0 +1,17 @@
+package tn.insat.gl4;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+    	System.out.println( "Mis sous le controle de SVN" );
+    	System.out.println( "Mis sous le controle de SVN" );
+    	
+        System.out.println( "Bonjour les GL4, c'est le Hello World de Maven !" );
+    }
+}

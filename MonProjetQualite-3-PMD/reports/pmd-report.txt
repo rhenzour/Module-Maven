@@ -1,0 +1,53 @@
+src/main/java/tn/insat/gl4/client/App.java:7:	Avoid short class names like App
+src/main/java/tn/insat/gl4/client/App.java:8:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/tn/insat/gl4/client/App.java:9:	Parameter 'args' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/client/App.java:9:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/client/App.java:11:	System.out.println is used
+src/main/java/tn/insat/gl4/domain/Produit.java:7:	Each class should declare at least one constructor
+src/main/java/tn/insat/gl4/domain/Produit.java:7:	headerCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:10:	fieldCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:11:	fieldCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:12:	fieldCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:14:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:17:	Parameter 'codeProduit' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Produit.java:17:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:20:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:23:	Parameter 'libelleProduit' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Produit.java:23:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:26:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Produit.java:29:	Parameter 'quantiteEnStock' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Produit.java:29:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:3:	Avoid short class names like Yang
+src/main/java/tn/insat/gl4/domain/Yang.java:3:	To be compliant to J2EE, a webapp should not use any thread.
+src/main/java/tn/insat/gl4/domain/Yang.java:3:	headerCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:4:	Parameter 'str' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Yang.java:4:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:8:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:10:	System.out.println is used
+src/main/java/tn/insat/gl4/domain/Yang.java:16:	System.out.println is used
+src/main/java/tn/insat/gl4/domain/Yang.java:19:	Method names should not contain underscores
+src/main/java/tn/insat/gl4/domain/Yang.java:19:	Method names should not start with capital letters
+src/main/java/tn/insat/gl4/domain/Yang.java:19:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'INPUT_PARAMETER' is not final.
+src/main/java/tn/insat/gl4/domain/Yang.java:19:	Parameter 'INPUT_PARAMETER' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Yang.java:19:	Variables should start with a lowercase character, 'INPUT_PARAMETER' starts with uppercase character.
+src/main/java/tn/insat/gl4/domain/Yang.java:19:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:20:	System.out.println is used
+src/main/java/tn/insat/gl4/domain/Yang.java:23:	Parameter 'args' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Yang.java:23:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:28:	Parameter 'pFirst' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Yang.java:28:	Parameter 'pSecond' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Yang.java:28:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Yang.java:29:	System.out.println is used
+src/main/java/tn/insat/gl4/domain/Ying.java:3:	Avoid short class names like Ying
+src/main/java/tn/insat/gl4/domain/Ying.java:3:	Each class should declare at least one constructor
+src/main/java/tn/insat/gl4/domain/Ying.java:3:	headerCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Ying.java:5:	Avoid unused private fields such as 'gOOD'.
+src/main/java/tn/insat/gl4/domain/Ying.java:5:	Variables that are final and static should be all capitals, 'gOOD' is not all capitals.
+src/main/java/tn/insat/gl4/domain/Ying.java:5:	fieldCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Ying.java:7:	Method names should not start with capital letters
+src/main/java/tn/insat/gl4/domain/Ying.java:7:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Ying.java:8:	System.out.println is used
+src/main/java/tn/insat/gl4/domain/Ying.java:11:	Parameter 'pFirst' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Ying.java:11:	Parameter 'pSecond' is not assigned and could be declared final
+src/main/java/tn/insat/gl4/domain/Ying.java:11:	publicMethodCommentRequirement Required
+src/main/java/tn/insat/gl4/domain/Ying.java:12:	System.out.println is used

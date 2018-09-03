@@ -1,0 +1,42 @@
+package tn.insat.gl4.domain;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+import tn.insat.gl4.domain.Calculette;
+
+public class Calculette_JUnit4_Test {
+	
+	private Calculette calculette;
+
+	@Before
+	public void setUp() throws Exception {
+		calculette = new Calculette();
+	}
+
+	@After
+	public void tearDown() throws Exception {
+		calculette = null;
+	}
+
+	@Test
+	public final void testAdditionner() {
+		// ARRANGE ...
+//				int arg1 = 5;
+//				int arg2 = 5;
+//				
+//				int expected = 10;
+//				
+//				// ACT ...
+//				int actual = calculette.additionner(arg1, arg2);
+//				
+//				// ASSERT ...
+//				assertEquals(expected, actual);
+//				
+		fail("Not yet implemented"); // TODO
+	}
+
+}

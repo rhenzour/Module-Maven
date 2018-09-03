@@ -1,0 +1,15 @@
+package tn.insat.gl4.domain;
+
+public class Calculette {
+	
+	public  int additionner(int a, int b){
+		
+		
+		return a +b;
+	}
+	public  int diviser(int a, int b){
+		return a/b;
+	}
+	
+
+}

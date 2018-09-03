@@ -1,0 +1,12 @@
+Found a 8 line (25 tokens) duplication in the following files: 
+Starting at line 8 of D:\MonWorkspaceGL42015Sem1\MonProjetQualite-3-PMD\src\main\java\tn\insat\gl4\domain\Ying.java
+Starting at line 25 of D:\MonWorkspaceGL42015Sem1\MonProjetQualite-3-PMD\src\main\java\tn\insat\gl4\domain\Yang.java
+
+		System.out.println("Hello PMD World!");
+	}
+
+	public String thisIsCutAndPaste(String pFirst, int pSecond) {
+		System.out.println("New world");
+		return "New world";
+	}
+}
